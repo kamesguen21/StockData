@@ -18,7 +18,7 @@ bellow is the list of available stocks
     - API Endpoint 
     
     ```bash 
-    https://cdn.jsdelivr.net/gh/kamesguen21/StockData@main/api/stocks.json
+    https://cdn.jsdelivr.net/gh/kamesguen21/StockData@master/api/stocks.json
     ```
     - Response Example 
     ```json 
@@ -28,7 +28,7 @@ bellow is the list of available stocks
      - API Endpoint 
      
      ```bash 
-     https://cdn.jsdelivr.net/gh/kamesguen21/StockData@main/api/historical/{SYMBOL}.json
+     https://cdn.jsdelivr.net/gh/kamesguen21/StockData@master/api/historical/{SYMBOL}.json
      ```
      - Response Example 
      ```json 
@@ -56,7 +56,7 @@ bellow is the list of available stocks
  3. Get stocks Descriptions
     - API Endpoint 
     ```bash 
-    https://cdn.jsdelivr.net/gh/kamesguen21/StockData@main/api/description/{SYMBOL}.json
+    https://cdn.jsdelivr.net/gh/kamesguen21/StockData@master/api/description/{SYMBOL}.json
     ```
     - Response Example 
     ```json 
@@ -109,4 +109,4 @@ i need to find a way to make daily updates on the data, right now its just updat
 if you need up to date data this is a nice (paid) api https://polygon.io/ or https://finance.yahoo.com/
 
 #### License
-[MIT](https://github.com/kamesguen21/StockData/blob/main/LICENSE)
+[MIT](https://github.com/kamesguen21/StockData/blob/master/LICENSE)
